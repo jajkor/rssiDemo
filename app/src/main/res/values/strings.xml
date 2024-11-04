@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rssiDemo</string>
+    <string name="app_title">WiFi Access Point RSSI Monitor</string>
+    <string-array name="btnStartStopText">
+        <item>Start Scanning</item>
+        <item>Stop Scanning</item>
+    </string-array>
+</resources>
